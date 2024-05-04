@@ -16,9 +16,6 @@ Clone the repository:
 ![Screenshot 2024-05-04 181857](https://github.com/Divya05Jain/weather/assets/114459665/ca0f7b90-18df-4f8b-8c1d-1d85e317ef75)
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
-## Credits
-Weather data is fetched from OpenWeatherMap.
-Icons are from Flaticon.
+1. HTML
+2. CSS
+3. JavaScript
